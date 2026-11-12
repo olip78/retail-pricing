@@ -1,0 +1,4 @@
+fold,original_contexts,retained_contexts,outcomes,retained_pct,train_last,evaluation_first
+selection_2,7912,6283,69113,79.41102123356926,242,244
+development_audit,10489,7685,84535,73.26723233864048,283,296
+final_holdout,14090,10586,116446,75.13129879347055,346,348

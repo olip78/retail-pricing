@@ -1,0 +1,192 @@
+[
+  {
+    "file": "figures/own_price_curves.png",
+    "source": "outputs/asymmetric_report/figures/own_price_curves.png",
+    "sha256": "82420643a8082d9ee873f7519f5c1f0821dfbc0ee0df4e9d5bee36749849cb96"
+  },
+  {
+    "file": "figures/training_stability.png",
+    "source": "outputs/asymmetric_report/figures/training_stability.png",
+    "sha256": "914c06e42f74e4d349a9958d94f66ca9f60479ac3cad84c7b95f1e5d49472384"
+  },
+  {
+    "file": "figures/response_distributions.png",
+    "source": "outputs/asymmetric_report/figures/response_distributions.png",
+    "sha256": "23600142fa624514d09250187909cf54b7f1f9ed564d7f4ac45896d6b99c8751"
+  },
+  {
+    "file": "figures/errors_by_signed_price_change.png",
+    "source": "outputs/asymmetric_report/figures/errors_by_signed_price_change.png",
+    "sha256": "a5c4a919e561908aab7e3f07bdb993de71960a88710843190b5e0f013ab35103"
+  },
+  {
+    "file": "figures/pooled_price_coverage.png",
+    "source": "outputs/asymmetric_report/figures/pooled_price_coverage.png",
+    "sha256": "fae66c292be1c06698edef1518a5068abc48f0b1fbf5893ad7f86e76d87beeef"
+  },
+  {
+    "file": "figures/cross_price_curves.png",
+    "source": "outputs/asymmetric_report/figures/cross_price_curves.png",
+    "sha256": "293bc8c73348403439d5044c351b4dcf5e3c2cd0a294d743a412bbbd6528c076"
+  },
+  {
+    "file": "figures/errors_by_signed_price_change_main.png",
+    "source": "outputs/asymmetric_report/figures/errors_by_signed_price_change_main.png",
+    "sha256": "7762eabf1e906c9863aa192a34b7a4700760067e408ec9e3539c44d23093761f"
+  },
+  {
+    "file": "figures/motts_regular_store78_promos.png",
+    "source": "outputs/sales_data_eda/motts_regular_store78_promos.png",
+    "sha256": "806d1ce80b2c98b12c7850e9e8279f047c43b7febfa3b607d4efaca36676263e"
+  },
+  {
+    "file": "figures/motts_other_stores.png",
+    "source": "outputs/sales_data_eda/motts_other_stores.png",
+    "sha256": "62e6bdffead69a6f87affd3ae491e647f623762928f6cfdd32b4e29b92a3348c"
+  },
+  {
+    "file": "figures/peak256_other_products.png",
+    "source": "outputs/sales_data_eda/peak256_other_products.png",
+    "sha256": "f250ad2ed48145b136ab012fada81c52bcba9b75a338d09c63a15030cee15021"
+  },
+  {
+    "file": "figures/cv_all.png",
+    "source": "outputs/sales_data_eda/cv_all.png",
+    "sha256": "9296e392d61dc66a3d13be8b31281d2e3067ac18cf87377e41b003151e01add0"
+  },
+  {
+    "file": "figures/zero_share_all.png",
+    "source": "outputs/sales_data_eda/zero_share_all.png",
+    "sha256": "7fba23cb253aa47a9e2822ec8aae40568bc992e8c4f167473df91d6d47a40533"
+  },
+  {
+    "file": "figures/price_sales_scatter.png",
+    "source": "outputs/sales_data_eda/price_sales_scatter.png",
+    "sha256": "d2f4a8b8c244c38d59d3821fabc927a6037d209ada40ae252fb4eae47ddc90dc"
+  },
+  {
+    "file": "figures/variance_regression_raw_all.png",
+    "source": "outputs/sales_data_eda/variance_regression_raw_all.png",
+    "sha256": "8648c497172d33074b5d81fec9055721725d8179ba082ff2bfb7c2ca835691ae"
+  },
+  {
+    "file": "figures/price_histograms.png",
+    "source": "outputs/prior_price_sanity/price_histograms.png",
+    "sha256": "833e82482478bac52951e4048ac7c023df1b9b2fcc70a04e9944f97f1ef880de"
+  },
+  {
+    "file": "figures/price_heatmaps.png",
+    "source": "outputs/prior_price_sanity/price_heatmaps.png",
+    "sha256": "62d01cf5f30bdf8f5682c172086f59de36b294ee8f8059df496a1f61f9218d7b"
+  },
+  {
+    "file": "figures/sales_revenue_matrices.png",
+    "source": "outputs/prior_price_sanity/sales_revenue_matrices.png",
+    "sha256": "7f72c27764846ba5306747b7574a77bafd0947a166adeae0a09cc38bf359811c"
+  },
+  {
+    "file": "figures/revenue_components.png",
+    "source": "outputs/prior_price_sanity/revenue_components.png",
+    "sha256": "0f8acd0ad90bda14afd8868e63c396522030874de6f683ce6c08eb3d9aa12a96"
+  },
+  {
+    "file": "figures/Direct_heatmap_05.png",
+    "source": "outputs/other_calm_log30/Direct_heatmap_05.png",
+    "sha256": "b33f69de9d50d66ab1cb88437c963e28067ade64e03a2d807998ca50329d5c55"
+  },
+  {
+    "file": "figures/C2_heatmap_05.png",
+    "source": "outputs/other_calm_log30/C2_heatmap_05.png",
+    "sha256": "66e6cc56cf5df72801ba39ba374a15811bd78089809f408cdce2f31787a97f0d"
+  },
+  {
+    "file": "figures/sanity_heatmap_05.png",
+    "source": "outputs/c1_calm_log30/sanity_heatmap_05.png",
+    "sha256": "fa8d230a4867fd661b94d447e347875d772cedec2d33b9bd7f034fae53ffe239"
+  },
+  {
+    "file": "results/forecast_comparison.csv",
+    "source": "outputs/asymmetric_report/forecast_comparison.csv",
+    "sha256": "bc9ae76ee4eb2a99a57c9d80debe187f4ff17957e3158a0137f050c18a71b8b8"
+  },
+  {
+    "file": "results/forecast_by_seed.csv",
+    "source": "outputs/asymmetric_report/forecast_by_seed.csv",
+    "sha256": "c42d227ea03f3a9a404332401ac1dc69663ffe357de8a333e9eb5719674e2d6e"
+  },
+  {
+    "file": "results/response_summary.csv",
+    "source": "outputs/asymmetric_report/response_summary.csv",
+    "sha256": "27052846132f9ecd92abcc8433bb65d8997eba0460a1c9d12a3fbed6986fae51"
+  },
+  {
+    "file": "results/seed_response_stability.csv",
+    "source": "outputs/asymmetric_report/seed_response_stability.csv",
+    "sha256": "3814ee9077f1c9e5659bf9b77c030c75c73fef51f9ca6f26bbbc26c80cc07b68"
+  },
+  {
+    "file": "results/step_sensitivity.csv",
+    "source": "outputs/asymmetric_report/step_sensitivity.csv",
+    "sha256": "3ef28ed0e87954d0178c44c689797d2cb70ff9944a255b1ef56b7b5004f72872"
+  },
+  {
+    "file": "results/model_agreement.csv",
+    "source": "outputs/asymmetric_report/model_agreement.csv",
+    "sha256": "ddc3b47b713a6e5912e60aecaa54092b9d131c53976ee622cc8da950e8b2352d"
+  },
+  {
+    "file": "results/price_variation.csv",
+    "source": "outputs/asymmetric_report/price_variation.csv",
+    "sha256": "41925e9342c9ae362b47f4f3e4ab6b98102dfeb43887200d7567a4256aa54f33"
+  },
+  {
+    "file": "results/errors_by_signed_price_change.csv",
+    "source": "outputs/asymmetric_report/errors_by_signed_price_change.csv",
+    "sha256": "7fbc8508306c2e08a0c492c6bd22e4b68b98f8e446d1115287bd3db3a157c72e"
+  },
+  {
+    "file": "results/c1_calm_log30_metrics.csv",
+    "source": "outputs/c1_calm_log30/metrics.csv",
+    "sha256": "6ee8cd604d7613ccd3367f0d78cc98aed1cb2662b4cdb0b31a7bb4dfa82e4358"
+  },
+  {
+    "file": "results/c1_calm_log30_training_counts.csv",
+    "source": "outputs/c1_calm_log30/training_counts.csv",
+    "sha256": "07ebd6ffafab7296a571b47382e4265283b005139e555103cc5fb72a5e7e73f8"
+  },
+  {
+    "file": "results/c1_calm_log30_sanity_summary.csv",
+    "source": "outputs/c1_calm_log30/sanity_summary.csv",
+    "sha256": "cab2850c1cbf09cf70c96121c2e773b4f8940eb919ee154550ecbcaf8c5ef9c1"
+  },
+  {
+    "file": "results/other_calm_log30_forecast_metrics.csv",
+    "source": "outputs/other_calm_log30/forecast_metrics.csv",
+    "sha256": "843333198ace1e10aeb86300737580d4c9d2ece660a5878cb4df2f9d62c16697"
+  },
+  {
+    "file": "results/other_calm_log30_sanity_summary.csv",
+    "source": "outputs/other_calm_log30/sanity_summary.csv",
+    "sha256": "3bba005f7e74075c4a55524a817fb3cb2ba7649e01feb9c1c00e8b2d949045bf"
+  },
+  {
+    "file": "results/prior_price_sanity_summary.csv",
+    "source": "outputs/prior_price_sanity/summary.csv",
+    "sha256": "00bfa5413303ca2e64865897223cb3f1230d42471e64817485cc4d7075870edc"
+  },
+  {
+    "file": "results/prior_price_sanity_decomposition_summary.csv",
+    "source": "outputs/prior_price_sanity/decomposition_summary.csv",
+    "sha256": "a546579ad9d14dc42d6f38d19e9a0af1d6fe20a6782202b53db3c0b58a35fab8"
+  },
+  {
+    "file": "results/historical_sales_calibration_summary.csv",
+    "source": "outputs/historical_sales_calibration/summary.csv",
+    "sha256": "4614d14e1b1e0a3204ee8c9aff0f79b504efacb2bf7a31437d2fc15d5dd10dd3"
+  },
+  {
+    "file": "results/historical_profit_calibration_summary.csv",
+    "source": "outputs/historical_profit_calibration/summary.csv",
+    "sha256": "5177b69dab4054cd76f05be4e73ba8199322b1b3cd4ab6a04c357ace314eb087"
+  }
+]
